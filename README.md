@@ -1,7 +1,5 @@
 [![Java CI with Gradle](https://github.com/LevVolkov/Patterns2/actions/workflows/gradle.yml/badge.svg)](https://github.com/LevVolkov/Patterns2/actions/workflows/gradle.yml)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/2eo21uf6notj0y89?svg=true)](https://ci.appveyor.com/project/LevVolkov/patterns1)
-
 # 5.2 Домашнее задание к занятию «2.3. Patterns»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
